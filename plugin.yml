@@ -1,0 +1,11 @@
+name: AutoInvPE
+version: 1.0.0
+author: Terpz710
+api: 5.0.0
+main: Terpz710\AutoInvPE\Main
+description: Adds the dropped item to your inventory.
+
+permissions:
+  autoinvpe.autoinv:
+    description: enables/disables auto inventory.
+    default: op
